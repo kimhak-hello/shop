@@ -15,6 +15,10 @@ body{
 	padding:0px 5%;
     height:60px;
 }
+.active{
+    /* background: orange; */
+    border-bottom:3px solid orange;
+}
 .menu ul{
     display: flex;
 }
